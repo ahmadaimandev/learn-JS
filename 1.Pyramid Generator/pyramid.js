@@ -15,3 +15,6 @@ let count = 8;
 // declare strings values in an array
 let rows = ["Naomi", "Quincy", "CamperChan"];  
 console.log(rows[0]);
+// change third element in the array
+rows[2] = 10; 
+console.log(rows);

@@ -16,3 +16,11 @@ example:
 console.log(array[0]);
 - an index is a number represent positions of the value in the array
 - starting from 0 for the first value
+
+- array are special because they are considered mutable which means you can change the value at an index directly
+
+example code:
+this code would assign the number 25 to the second element in the array:
+let array = [1, 2, 3];
+array[1] = 25;
+console.log(array); // prints [1, 25, 3]
