@@ -13,4 +13,14 @@ ii. assign value
 1. to assign value, use the assignment operator '='
 
 iii. data types
-1 
+1. javascript have 7 primitive data types. strings is one of them.
+ - string is a sequence of character and can be enclosed with either single(') or double(") quotes
+ - strings are immutable. which means once they are created, they cannot be changed 
+ - the variable still can be reassigned another value
+
+iv. print and view output
+1. use console.log()
+
+v. reassign value 
+1. when variable declared with the 'let' keyword, you can reassign or change the value of that variable later on.
+note: when reassigning a variable, you do not use 'let' keyword again.
