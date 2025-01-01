@@ -1,0 +1,16 @@
+i. Declaring variable in javascript
+1. use 'let' keyword then come up with:
+ - letters
+ - numbers
+ - dollar sign
+ - underscore
+ - cannot contain spaces
+ - must not begin with numbers
+
+note: it's common practice to end statements with javascript with a semicolon ';'
+
+ii. assign value
+1. to assign value, use the assignment operator '='
+
+iii. data types
+1 
