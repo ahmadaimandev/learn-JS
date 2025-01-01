@@ -31,3 +31,14 @@ length property
 example code:
 array[array.length - 1]
 - it will returns the number of elements in the array. by subtracting 1, you get index of the last elements in the array 
+
+array method
+- array have their own method. first we will explore the:
+1. push() method
+- this allows to 'push' a value to the end of an array.
+example code:
+array.push(12);
+
+2. pop() method
+- remove last element from an array and returns that element.
+- when returns value, you can think of its giving the value back to you, making it available for use in other parts of your code.
