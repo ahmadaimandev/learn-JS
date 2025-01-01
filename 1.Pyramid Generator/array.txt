@@ -1,0 +1,18 @@
+- Array is non-primitive that can hold series of value
+- non-primitive data type differ from primitive data type in that they can hold more complex data
+- primitive data types like:
+ 1. strings
+ 2. numbers
+- both these can only hold one value at a time
+- use squre brackets [] to denoted the array
+
+- when array hold value, they seperated by comma's (,)
+example code:
+let array = ["first", "second"];
+
+access value inside array
+- using the index of the value
+example:
+console.log(array[0]);
+- an index is a number represent positions of the value in the array
+- starting from 0 for the first value
