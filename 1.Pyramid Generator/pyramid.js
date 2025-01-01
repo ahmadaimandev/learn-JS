@@ -14,7 +14,8 @@ let count = 8;
 // declaring an array
 // declare strings values in an array
 let rows = ["Naomi", "Quincy", "CamperChan"];  
-console.log(rows[0]);
-// change third element in the array
-rows[2] = 10; 
+// console.log(rows[0]);
+// // change third element in the array
+// // rows[2] = 10;
+// rows[rows.length - 1]; //will return the number of elements in the array 
 console.log(rows);
