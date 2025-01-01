@@ -24,3 +24,24 @@ iv. print and view output
 v. reassign value 
 1. when variable declared with the 'let' keyword, you can reassign or change the value of that variable later on.
 note: when reassigning a variable, you do not use 'let' keyword again.
+
+vi. camel case
+1. when variables name are more than one words, there are specific naming conventions for how you capitalize the words.
+2. Camel Case means that the first word in the name entirely lowercase,
+3. but the following words are all title-cased
+
+example code:
+let variableOne;
+let secondVariable;
+let yetAnotherVariable;
+let thisIsAnAbsurdlyLongName;
+
+
+vii. assign variable to another variable
+example code:
+
+let first = "One";
+let second = "Two";
+second = first;
+
+- the second variable will have value "One"
