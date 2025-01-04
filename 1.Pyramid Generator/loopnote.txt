@@ -1,0 +1,18 @@
+basic loop
+
+1. for loop
+example code:
+for (iterator; condition; iteration) {
+  logic;
+}
+
+2. iterator
+- iterator is a variable you can declare specifically in your 'for' loop to control how the loop 
+iterates or goes through your logic.
+
+- common convention only use 'i'
+
+example code:
+for (let index = 100; "second"; "third") {
+
+}
