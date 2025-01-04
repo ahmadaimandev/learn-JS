@@ -1,0 +1,11 @@
+revision
+- using 'let' keywords allow to be reassigned
+
+1. const variable
+- cannot be reassigned like 'let' variable. these would throw and error.
+
+example code:
+const firstName = "Naomi";
+firstName = "Jessica";
+
+- a 'const' variable also cannot be uninitialized. these code would throw and error.
